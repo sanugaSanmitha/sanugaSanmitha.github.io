@@ -11,6 +11,10 @@ TEXT 1
 
 ## This heading is not unique in the file
 
+TEXT 1
+
+## This heading is not unique in the file
+
 TEXT 2
 
 # Links to the example headings above
