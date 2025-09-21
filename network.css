@@ -1,0 +1,270 @@
+
+
+body{
+	font-family:;
+	color:white;
+	background-image: url("background4.jpg");
+
+
+	}
+
+						.back1{
+
+										background-image: url("background1.jpg");
+										width:1330px;
+										height:110%;
+										position:relative;
+										top:-20px;
+										left:-20px;
+										background-size: cover;
+										  background-repeat: no-repeat;
+										}
+						.back2{
+
+										background-image: url("background2.jpg");
+										width:1330px;
+										height:110%;
+										position:relative;
+										top:-20px;
+										left:-20px;
+										  background-repeat: no-repeat;
+										}
+						.back3{
+
+										background-image: url("background3.jpg");
+										background-size: cover;
+
+										width:1330px;
+										height:110%;
+										position:relative;
+										top:-20px;
+										left:-20px;
+										  background-repeat: no-repeat;
+										}
+						.back4{
+
+										background-image: url("background4.jpg");
+										background-size: cover;
+										width:1330px;
+										height:120%;
+										position:relative;
+										top:-20px;
+										bottom:-30px;
+										left:-20px;
+										  background-repeat: no-repeat;
+										}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									.div1{
+
+										position:fixed;
+										z-index: 2;
+										width:1330px;
+										height:300px;
+										left:0%;
+										top:0%;
+										}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+		text-align:center;
+		font-size:50px;
+
+}
+.navbar{
+		width:1330px;
+		height:80px;
+		padding:20px;
+		border-bottom:2px solid white;
+		border-top:2px solid white;
+		display:flex;
+
+
+	}
+a,#sup{
+		text-decoration:none;
+		color:white;
+		padding:20px;
+		width:160px;
+		height:20px;
+		text-align:center;
+		padding-bottom:30px;
+		border:2px solid white;
+
+
+	}
+a{		margin-left:40px;}
+#sup{		margin-left:40px;}
+
+a:hover {
+		background:navy;
+		padding:20px;
+		padding-bottom:30px;
+		transform:scale(1.1);
+		}
+
+
+
+.right{
+margin-right:100px;
+float:right;
+}
+
+.left{
+float:left;
+margin-left:100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      

@@ -1,0 +1,289 @@
+#top{
+		width:200px;
+		height:580px;
+		position:fixed;
+		background-image:linear-gradient(#2154C2,#24C2FA);
+		z-index:2;
+
+	}
+
+a{
+
+		display:block;
+		text-decoration:none;
+		color:white;
+		padding:20px;
+		line-height:10px;
+		border-bottom:2px solid white;
+		border-top:2px solid white;
+
+
+}
+#sup{		border-bottom:4px solid white;}
+
+
+
+a:hover{
+
+		background:;
+		transform:scale(1.1);
+		margin-left:20px;
+		width:160px;
+		background-image:linear-gradient(#2154C2,#24C2FA);
+		overflow:visible;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.con{
+		
+		width:1600px;
+		height:600px;
+		position:relative;
+		left:200px;
+
+
+
+
+}
+
+
+
+.right{
+		float:right;
+
+
+}
+
+
+
+.left{
+		float:left;
+
+
+}
+
+
+
+
+
+
+
+
+
+.absolute{
+
+		position:absolute;
+		width:1600px;
+		height:580px;
+		margin-left:10px;
+		
+		
+
+
+
+
+	}
+
+.ring{
+
+
+		width:330px;
+		height:580px;
+
+	}
+.flex{
+		width:1600px;
+		height:600px;
+		color:white;
+		display:flex;
+		margin-top:-30px;
+
+}
+
+
+ details{
+
+		background-image:linear-gradient(#0128E0	,#0FAFE0	,#4A61E0	);
+		
+}
+
+
+
+
+
+
+
+
+
+
+
+h2{
+		background-image:linear-gradient(#2154C2,#44C2BC);
+		font-size:50px;
+		text-align:center;
+		margin-left:200px;
+		color:white;
+		width:800px;
+		padding:10x;
+		height:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
